@@ -18,4 +18,5 @@ AN = media.Movie("ANNABELLE", "horror", "an.jpg",
 PA = media.Movie("PARI", "horror", "pari.jpg",
                  "https://www.youtube.com/watch?v=PQKu78NnyvU")
 movies = [IT, CG, CT, AN, PA]
+# open the html file in webbrowser via the fresh_tomatoes.py file
 fresh_tomatoes.open_movies_page(movies)
