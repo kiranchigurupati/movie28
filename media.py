@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 import webbrowser
-print("Content-type:text/html \n")
 
 
 class Movie():
